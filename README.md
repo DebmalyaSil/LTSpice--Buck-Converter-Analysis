@@ -17,8 +17,7 @@ The objective is to study:
 
 ## Results
 - Achieved stable 15V regulated output.
-- Ripple voltage reduced from ~120 mV to <30 mV using LC filter.
-- EMI frequency spectrum analyzed using FFT.
+- Ripple voltage reduced from ~120mV using LC filter.
 
 ## Applications
 - Power supplies in embedded systems.
